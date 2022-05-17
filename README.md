@@ -1,4 +1,4 @@
-## Oiii! Meu nome é ROIGamer, aqui coloco projetos ou códigos abertos!
+## Oiii! Meu nome é ROIGamer, sou YouTuber e aqui vou colocar projetos meus e outros projetos de código aberto!
 <div align="center">
   <a href="https://github.com/roigamercanal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roigamercanal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

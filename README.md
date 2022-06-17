@@ -1,8 +1,8 @@
 ## Oiii! Meu nome é ROIGamer, sou YouTuber e aqui vou colocar projetos meus e outros projetos de código aberto!
 <div align="center">
   <a href="https://github.com/roigamercanal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roigamercanal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roigamercanal&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roigamerYT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roigamerYT&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ROI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
